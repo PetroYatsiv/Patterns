@@ -1,1 +1,52 @@
 Patterns/.vs/Patterns/v15/Server/sqlite3/db.lock
+Patterns/AbstractFactory/obj/project.assets.json
+Patterns/AbstractFactory/obj/Debug/netcoreapp2.1/AbstractFactory.AssemblyInfo.cs
+Patterns/AbstractFactory/obj/AbstractFactory.csproj.nuget.g.targets
+Patterns/AbstractFactory/obj/AbstractFactory.csproj.nuget.g.props
+Patterns/AbstractFactory/obj/AbstractFactory.csproj.nuget.cache
+Patterns/AbstractFactory/obj/Debug/netcoreapp2.1/AbstractFactory.csprojAssemblyReference.cache
+Patterns/AbstractFactory/obj/Debug/netcoreapp2.1/AbstractFactory.csproj.CoreCompileInputs.cache
+Patterns/AbstractFactory/obj/Debug/netcoreapp2.1/AbstractFactory.assets.cache
+Patterns/AbstractFactory/obj/Debug/netcoreapp2.1/AbstractFactory.AssemblyInfoInputs.cache
+Patterns/Factory Method/bin/Debug/Factory Method.exe
+Patterns/AbstractFactory/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Patterns/AbstractFactory/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Patterns/AbstractFactory/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Patterns/Singleton/obj/Singleton.csproj.nuget.g.targets
+Patterns/Singleton/obj/Singleton.csproj.nuget.g.props
+Patterns/Singleton/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Patterns/Singleton/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Patterns/Singleton/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Patterns/Singleton/obj/Debug/netcoreapp2.1/Singleton.pdb
+Patterns/Singleton/obj/Debug/netcoreapp2.1/Singleton.exe
+Patterns/Singleton/obj/Debug/netcoreapp2.1/Singleton.dll
+Patterns/Singleton/obj/Debug/netcoreapp2.1/Singleton.csprojAssemblyReference.cache
+Patterns/Singleton/obj/Debug/netcoreapp2.1/Singleton.csproj.FileListAbsolute.txt
+Patterns/Singleton/obj/Debug/netcoreapp2.1/Singleton.csproj.CoreCompileInputs.cache
+Patterns/Singleton/obj/Debug/netcoreapp2.1/Singleton.assets.cache
+Patterns/Singleton/obj/Debug/netcoreapp2.1/Singleton.AssemblyInfoInputs.cache
+Patterns/Singleton/obj/Debug/netcoreapp2.1/Singleton.AssemblyInfo.cs
+Patterns/Singleton/obj/project.assets.json
+Patterns/Singleton/obj/Singleton.csproj.nuget.cache
+Patterns/Singleton/bin/Debug/netcoreapp2.1/Singleton.runtimeconfig.json
+Patterns/Singleton/bin/Debug/netcoreapp2.1/Singleton.runtimeconfig.dev.json
+Patterns/Singleton/bin/Debug/netcoreapp2.1/Singleton.pdb
+Patterns/Singleton/bin/Debug/netcoreapp2.1/Singleton.exe
+Patterns/Singleton/bin/Debug/netcoreapp2.1/Singleton.dll
+Patterns/Singleton/bin/Debug/netcoreapp2.1/Singleton.deps.json
+Patterns/Prototype/obj/project.assets.json
+Patterns/Prototype/obj/Prototype.csproj.nuget.g.targets
+Patterns/Prototype/obj/Prototype.csproj.nuget.g.props
+Patterns/Prototype/obj/Prototype.csproj.nuget.cache
+Patterns/Prototype/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+Patterns/Prototype/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+Patterns/Prototype/obj/Debug/netcoreapp2.1/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+Patterns/Prototype/obj/Debug/netcoreapp2.1/Prototype.csproj.CoreCompileInputs.cache
+Patterns/Prototype/obj/Debug/netcoreapp2.1/Prototype.assets.cache
+Patterns/Prototype/obj/Debug/netcoreapp2.1/Prototype.AssemblyInfoInputs.cache
+Patterns/Prototype/obj/Debug/netcoreapp2.1/Prototype.AssemblyInfo.cs
+Patterns/Factory Method/obj/Debug/Factory Method.exe
+Patterns/Factory Method/obj/Debug/Factory Method.csproj.FileListAbsolute.txt
+Patterns/Factory Method/bin/Debug/Factory Method.pdb
+Patterns/Factory Method/bin/Debug/Factory Method.exe.config
+Patterns/Factory Method/obj/Debug/Factory Method.pdb
